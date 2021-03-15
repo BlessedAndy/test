@@ -27,6 +27,7 @@ userEmail = 'blessedandy@hotmail.com'
 userPassword = 'Zsmfxy@516'
 zipcode = 19087
 
+
 def monitor():
     driver = webdriver.Chrome(options=options, executable_path=r'C:/stock/chromedriver.exe')
     

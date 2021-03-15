@@ -78,6 +78,7 @@ def login_costco():
     
 login_costco()
 
+
 #TODO:
 #auto purchase
 '''
